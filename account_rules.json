@@ -1,0 +1,25 @@
+{
+  "FundedNext": {
+    "account_ids": [
+      "FNFTCHJEANMARCSIMEON36247",
+      "FNFTCHJEANMARCSIMEON91745"
+    ],
+    "hard_close_time_cst": "15:10",
+    "daily_loss_limit": 2000.0,
+    "max_drawdown_limit": 2000.0,
+    "strategy_bias": "Intraday_Only"
+  },
+  "Apex": {
+    "account_ids": [
+      "APEX-428844-01",
+      "APEX-428844-02"
+    ],
+    "hard_close_time_est": "16:59",
+    "trailing_threshold_buffer": 3000.0,
+    "contract_scaling_rule": {
+      "threshold": 2600.0,
+      "max_contracts_below": 7,
+      "max_contracts_above": 14
+    }
+  }
+}

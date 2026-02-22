@@ -1,0 +1,17 @@
+{
+    "black_book": "No restrictions.",
+    "defcon": 3,
+    "market_bias": "BEARISH",
+    "market_confidence": 60,
+    "strategy_focus": "Volume Profile Trading",
+    "cio_bias": "BEAR",
+    "cio_notes": "The AI prediction indicates a strong bearish outlook (55.4%). Technically, the 60m chart shows that price has failed to sustain higher levels after an initial morning rally, now displaying rejection with a recent red candle and moving lower. The MACD lines, while still positive, are converging and histogram bars are decreasing, signaling weakening bullish momentum and a potential bearish cross. Given the existing losing position (Net: $-37.0) and the confluence of a bearish AI prediction with weakening technicals, closing the position is a prudent risk management decision to prevent further losses. The neutral news wire does not contradict this analysis.",
+    "cio_levels": "S: 25652.21 | R: 25742.75",
+    "defcon_settings": {
+        "max_stop": 30,
+        "allow_lone_wolf": true
+    },
+    "risk_bias": "BEAR",
+    "risk_notes": "The AI prediction indicates a BEARISH trend (56.4%). MACD confirms strong bearish momentum with both the MACD line and Signal line below zero and trending downwards. Recent price action shows a clear downtrend with price struggling below previous resistance levels. Given the 'FLAT' status, 'DEFCON 3 (CAUTION)', and a small drawdown (-$37.0), as a Risk Officer, the prudent decision is to take no immediate action. While the trend is bearish, it is essential to wait for a higher-probability entry setup or further confirmation (e.g., retest of resistance or break of immediate minor support) to align with strategic risk management principles and prioritize capital preservation.",
+    "risk_levels": "S: 25478.50 | R: 25703.46"
+}
