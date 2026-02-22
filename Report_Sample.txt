@@ -1,0 +1,6 @@
+CIO DAILY OPTIMIZATION
+======================
+
+1. SNIPER PERFORMANCE: Optimal
+2. DRAWDOWN: 0.5%
+3. STRATEGY ADJUSTMENT: Increasing Stop Loss to 25 ticks based on volatility.
